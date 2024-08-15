@@ -22,8 +22,6 @@ desarrollo de habilidades técnicas y el diseño de soluciones más eficientes y
 a los futuros ingenieros en telecomunicaciones para ser agentes del cambio y contribuir al progreso tecnológico de la Smart City sin 
 comprometer el medio ambiente.
 
-# Mas información
-https://cbtelek.wordpress.com
 
 La aplicación desarrollada para el prototipo cumple con las funciones
 * Activar/desactivar el bloque calefactor encargado de fundir el filamento
@@ -31,3 +29,6 @@ La aplicación desarrollada para el prototipo cumple con las funciones
 * Activar/desactivar las luces led del dispositivo
 * Activar/desactivar los ventiladores que ayudan a regular la temperatura
 * Asi mismo nos presenta un calculadora que permite determinar la cantidad de filamento aproximado obtenido
+
+# Mas información
+https://cbtelek.wordpress.com
