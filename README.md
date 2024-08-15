@@ -1,3 +1,5 @@
+#TRIPETADORA
+
 Este proyecto se basa en la necesidad urgente de abordar dos desafíos fundamentales en el contexto de una Smart City: la gestión sostenible 
 de residuos plásticos y la promoción de la impresión 3D accesible y ecológica. Con millones de botellas de plástico desechadas diariamente y 
 la creciente demanda de filamentos para impresoras 3D, existe una oportunidad única para fusionar ambas necesidades en una solución innovadora 
