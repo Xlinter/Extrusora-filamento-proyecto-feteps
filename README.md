@@ -1,6 +1,12 @@
 # TRIPETADORA
 
-![LogoMaquina](https://github.com/user-attachments/assets/978c2864-943d-456a-a63c-985f44910219)
+
+
+
+<img alt="TRIPETADORA" src="https://github.com/user-attachments/assets/55d442e2-0730-4e3f-b7c7-dadc98ae8ac8" width="293" height="303" />
+
+
+
 
 Este proyecto se basa en la necesidad urgente de abordar dos desafíos fundamentales en el contexto de una Smart City: la gestión sostenible 
 de residuos plásticos y la promoción de la impresión 3D accesible y ecológica. Con millones de botellas de plástico desechadas diariamente y 
