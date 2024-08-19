@@ -30,7 +30,6 @@ La aplicación desarrollada para el prototipo cumple con las funciones
 * Activar/desactivar los ventiladores que ayudan a regular la temperatura
 * Asi mismo nos presenta un calculadora que permite determinar la cantidad de filamento aproximado obtenido
 
-# Descarga apk (Drive)
 **[Descarga apk (Drive)](https://drive.google.com/file/d/10_3Nf5YOvO7Iexa14JwVSX-uVn8DnNfg/view?usp=sharing)**
 
 
